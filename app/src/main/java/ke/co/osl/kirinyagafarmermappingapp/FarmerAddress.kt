@@ -40,7 +40,7 @@ class FarmerAddress: AppCompatActivity() {
     var lng: Double = 0.0
     var acc: Float = 0f
 
-    val ip_URL = "http://185.215.180.181:7042/api/map/"
+    val ip_URL = "http://185.215.180.181:7705/api/map/"
 //    val ip_URL = "http://demo.osl.co.ke:444/"
 
     object AndroidJSInterface {
@@ -486,6 +486,5 @@ class FarmerAddress: AppCompatActivity() {
         i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
         finish()
     }
-
 
 }

@@ -34,9 +34,9 @@ class LoginPage: AppCompatActivity() {
             showDialog()
         }
 
-//        next.setOnClickListener {
-//            startActivity(Intent(this@LoginPage,MainActivity::class.java))
-//        }
+        next.setOnClickListener {
+            startActivity(Intent(this@LoginPage,MainActivity::class.java))
+        }
 
 //        Theme_Black_NoTitleBar_Fullscreen - style theme changed from...
         dialog = Dialog(this)
@@ -44,7 +44,7 @@ class LoginPage: AppCompatActivity() {
 
         preferences = this.getSharedPreferences("ut_manager", MODE_PRIVATE)
         editor = preferences.edit()
-        postLoginDetails()
+        //postLoginDetails()
     }
 
     private fun postLoginDetails(){
