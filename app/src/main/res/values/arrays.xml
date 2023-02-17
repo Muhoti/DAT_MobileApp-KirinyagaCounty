@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ward" >
+        <item></item>
+        <item>Gathigiriri</item>
+        <item>Inoi</item>
+        <item>Kabare Baragwi</item>
+        <item>Kangai</item>
+        <item>Kanyekini</item>
+        <item>Kariti</item>
+        <item>Karumandi</item>
+        <item>Kerugoya</item>
+        <item>Kiine</item>
+        <item>Mukure</item>
+        <item>Murindiko</item>
+        <item>Murira</item>
+        <item>Mutithi</item>
+        <item>Ngariama</item>
+        <item>Njukiini</item>
+        <item>Nyangati</item>
+        <item>Tebere</item>
+        <item>Wamumu</item>
+    </string-array>
+    <string-array name="subCounty" >
+        <item>Kirinyaga Central</item>
+        <item>Kirinyaga East</item>
+        <item>Kirinyaga West</item>
+        <item>Mwea East</item>
+        <item>Mwea West</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="ages" >
+        <item>18-35</item>
+        <item>35-65</item>
+        <item>66 and above</item>
+    </string-array>
+
+    <string-array name="county">
+        <item>Kirinyaga</item>
+    </string-array>
+
+    <string-array name="farming" >
+        <item>Crop Farming</item>
+        <item>Livestock Farming</item>
+        <item>Mixed Farming</item>
+    </string-array>
+
+    <string-array name="grouptype">
+        <item>CIG</item>
+        <item>SACCO</item>
+        <item>P.O</item>
+        <item>Cohort</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="productionunit">
+        <item>KGs</item>
+        <item>Litres</item>
+        <item>Trays</item>
+        <item>Number</item>
+        <item>Live Birds</item>
+    </string-array>
+
+    <string-array name="farmingPeriod">
+        <item>Annually</item>
+        <item>Bi-annually</item>
+        <item>Quarterly</item>
+        <item>Monthly</item>
+        <item>Weekly</item>
+        <item>Daily</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="translucent_white">#B3FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="dark_green">#1F443D</color>
+    <color name="navy_blue">#061e06</color>
+
+<!--    <color name="navy_blue">#064985</color>-->
+    <color name="blue">#0000FF</color>
+<!--    <color name="blue">#0000FF</color>-->
+
+<!--    <color name="transparent_navy_blue">#B3064985</color>-->
+    <color name="transparent_navy_blue">#B31F443D</color>
+    <color name="translucent_dark_green">#B31F443D</color>
+    <color name="green">#026749</color>
+    <color name="light_green">#098855</color>
+    <color name="orange">#FCB040</color>
+    <color name="yellow">#FFD700</color>
+    <color name="light_orange">#F6BF77</color>
+    <color name="transparent_black">#6B000000</color>
+    <color name="dark_white">#F7F7F7</color>
+</resources>
